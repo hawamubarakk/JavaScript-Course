@@ -21,4 +21,4 @@ const student = {
   isEnrolled: true
 }
 
-console.log(student["name"])
+console.log(student[name])
