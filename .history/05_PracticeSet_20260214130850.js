@@ -36,7 +36,6 @@ const dict = {
 console.log(dict)
 
 console.log(dict.Artless)
-console.log(dict['Alacrity'])
  
 
 
