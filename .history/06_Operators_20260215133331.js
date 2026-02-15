@@ -43,5 +43,3 @@ let y = 6;
 
 console.log(x < y && x == 5 )
 console.log(x > y || x == 6)
-console.log(!false)
-console.log(!true)
