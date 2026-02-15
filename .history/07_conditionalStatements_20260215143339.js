@@ -42,3 +42,4 @@ switch(a) {
     default:
         console.log("Invalid Input");
 }
+VM1609:18 Saturday
