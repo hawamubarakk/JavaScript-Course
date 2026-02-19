@@ -1,5 +1,5 @@
 //using functions to avoid writing the same code again and again
-const hello = ()=> {
+const hello => {
     console.log("Hello World")
 }
 hello(); //calling the function

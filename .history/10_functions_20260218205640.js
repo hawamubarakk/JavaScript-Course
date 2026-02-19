@@ -1,8 +1,5 @@
 //using functions to avoid writing the same code again and again
-const hello = ()=> {
-    console.log("Hello World")
-}
-hello(); //calling the function
+
 function average(x,y){
     return 1 + (x+y)/2
 }
