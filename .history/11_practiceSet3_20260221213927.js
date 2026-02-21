@@ -18,7 +18,7 @@ for(let key in marks){
 
 
 // Problem 3
-/*
+
 let cn = 43
 let i
 
@@ -28,7 +28,7 @@ while(i != cn) {
 }
 
 console.log("You have entered a correct number")
-*/
+
 // Problem 4
 
 function mean(a,b,c,d,e){
