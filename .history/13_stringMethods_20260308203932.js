@@ -11,8 +11,3 @@ console.log(name.replace("Ali","pri")) // to replace a part of the string with a
 
 let friend = 'Bob'
 console.log(name.concat(" is a friend of ", friend)) // to concatenate two strings
-
-let friend2 = "         Charlie     "
-console.log(friend2) // to print the string with whitespace
-console.log(friend2.trim()) // to remove whitespace from both ends of the string
-
